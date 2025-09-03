@@ -1,5 +1,3 @@
----
-
 # 📅 ERP Timetable Scraper
 
 This project is a **web scraping tool** that automatically fetches and organizes timetable data from an ERP system. Instead of manually logging in and checking schedules, this scraper retrieves the timetable and presents it in a structured, interactive format for easy access and use.
@@ -25,6 +23,4 @@ This project is a **web scraping tool** that automatically fetches and organizes
   * `streamlit` – interactive web interface for displaying timetable
   * `pandas` – structuring and presenting timetable data
 
-
 ---
-
